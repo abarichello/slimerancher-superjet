@@ -5,10 +5,10 @@ Mod for the game [Slime Rancher](https://en.wikipedia.org/wiki/Slime_Rancher).<b
 # Screenshots
 
 <div>
-    <a href="https://www.youtube.com/watch?v=J8ee1b1XuMg"><img src="https://i.imgur.com/1gGiZh1.jpg" width="400"></a>
-    <a href="https://www.youtube.com/watch?v=J8ee1b1XuMg"><img src="https://i.imgur.com/2NvTngF.jpg" width="400"></a>
-    <a href="https://www.youtube.com/watch?v=J8ee1b1XuMg"><img src="https://i.imgur.com/tCGYQzD.jpg" width="400"></a>
-    <a href="https://www.youtube.com/watch?v=J8ee1b1XuMg"><img src="https://i.imgur.com/fuO6plB.jpg" width="400"></a>
+    <img src="https://i.imgur.com/1gGiZh1.jpg" width="420">
+    <img src="https://i.imgur.com/2NvTngF.jpg" width="420">
+    <img src="https://i.imgur.com/tCGYQzD.jpg" width="420">
+    <img src="https://i.imgur.com/fuO6plB.jpg" width="420">
 </div>
 
 ---
